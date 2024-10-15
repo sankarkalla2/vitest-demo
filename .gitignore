@@ -2,4 +2,6 @@
 /packages
 /dist
 debug[!04].log
-!important.log
+!important.loglogs
+/logs
+/debug4.log
