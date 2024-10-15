@@ -14,7 +14,7 @@ export function divide(a, b) {
     return a / b;
 }
 
-export function power(a, b) {
+export function power(a, b, c ='j') {
     return a ** b;
 }
 
