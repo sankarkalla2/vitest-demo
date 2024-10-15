@@ -1,6 +1,5 @@
 /node_modules
 /packages
 /dist
-**/logs
 debug[!04].log
 !important.log
