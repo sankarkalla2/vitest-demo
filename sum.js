@@ -19,3 +19,8 @@ export function power(a, b, c ='j') {
 }
 
 
+export function sqrt(a) {
+    return Math.sqrt(a);
+}
+
+
