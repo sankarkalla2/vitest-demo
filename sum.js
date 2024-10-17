@@ -42,6 +42,14 @@ export function lcm(a, b) {
     return a * (a - 1);
 }
 
+export function sin(a) {
+    return Math.sin(a);
+}
+
+
+
+
+
 
 
 
