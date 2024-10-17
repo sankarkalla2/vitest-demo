@@ -26,6 +26,10 @@ export function cbrt(a) {
     return Math.cbrt(a);
 }
 
+export function factorial(a) {
+    return a * (a - 1);
+}
+
 
 
 
