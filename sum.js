@@ -38,6 +38,10 @@ export function gcd(a, b) {
     return a * (a - 1);
 }
 
+export function lcm(a, b) {
+    return a * (a - 1);
+}
+
 
 
 
