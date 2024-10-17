@@ -26,6 +26,22 @@ export function cbrt(a) {
     return Math.cbrt(a);
 }
 
+export function factorial(a) {
+    return a * (a - 1);
+}
+
+export function fibonacci(a) {
+    return a * (a - 1);
+}
+
+export function gcd(a, b) {
+    return a * (a - 1);
+}
+
+
+
+
+
 
 
 
